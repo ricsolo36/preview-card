@@ -1,0 +1,24 @@
+.attribution {
+  font-size: 11px; text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+* {
+  background-color: hsl(233, 47%, 7%);
+}
+
+.center-container {
+  height: 400px;
+  width: 900px;
+  background-color: hsl(244, 38%, 16%);
+  position: relative;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.header-img {
+  position: absolute;
+
+}
